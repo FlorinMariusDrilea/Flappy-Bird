@@ -1,0 +1,2 @@
+C:\Users\mariu\source\repos\Flappy-Bird\Debug\Flappy-Bird.exe
+C:\Users\mariu\source\repos\Flappy-Bird\Debug\Flappy-Bird.pdb
